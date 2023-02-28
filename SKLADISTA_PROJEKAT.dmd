@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="SKLADISTA_PROJEKAT" id="7DDFE64F-8F0E-732A-5BC6-AC40D0B59779" version="3.5">
-<createdBy>tanja</createdBy>
-<createdTime>2022-12-13 19:31:14 UTC</createdTime>
-<ownerDesignName>SKLADISTA_PROJEKAT</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>7DDFE64F-8F0E-732A-5BC6-AC40D0B59779</designId>
-</OSDM_Design>
